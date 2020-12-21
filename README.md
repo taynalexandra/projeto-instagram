@@ -2,7 +2,7 @@
 
 > Projeto desenvolvido durante o Bootcamp Decola Dev, com o intuito de praticar conceitos de HTML e CSS utilizando Flexbox. 
 
-> Ingrementei a animação das imagens como na página real do instagram, com CSS keyframes.
+> Incrementei a animação das imagens como na página real do instagram, com CSS keyframes.
 
 <p align="center">
 <img src="img/projeto.gif"/>
